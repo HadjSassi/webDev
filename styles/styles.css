@@ -1,0 +1,12 @@
+* {
+    color: black;
+}
+
+span{
+    text-decoration: line-through;
+}
+
+div{
+    padding: 10%;
+    background-color: gray;
+}

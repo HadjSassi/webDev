@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="648d751f-9413-418a-9bdd-8811cc484031" name="Changes" comment="" />
+    <list default="true" id="648d751f-9413-418a-9bdd-8811cc484031" name="Changes" comment="Session 1 : Introduction&#10;Basics of HTML5">
+      <change afterPath="$PROJECT_DIR$/hello2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/TextStyles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,23 +21,32 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/HadjSassi/webDev.git",
-    "accountId": "008ff5d3-2ae4-48de-8a4c-1bea7dda591c"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;HadjSassi&quot;
   }
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/HadjSassi/webDev.git&quot;,
+    &quot;accountId&quot;: &quot;008ff5d3-2ae4-48de-8a4c-1bea7dda591c&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2qRGgry6ecLYr32KTOiwHJjPir4" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,9 +55,11 @@
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/mahdi/Desktop/Trainings/WEB/ARES/webDev/img",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -55,6 +73,7 @@
       <recent name="C:\Users\mahdi\Desktop\Trainings\WEB\ARES\webDev\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mahdi\Desktop\Trainings\WEB\ARES\webDev\styles" />
       <recent name="C:\Users\mahdi\Desktop\Trainings\WEB\ARES\webDev\img" />
       <recent name="C:\Users\mahdi\Desktop\Trainings\WEB\ARES\webDev" />
     </key>
@@ -74,11 +93,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734618090007</updated>
-      <workItem from="1734618092050" duration="6285000" />
+      <workItem from="1734618092050" duration="6326000" />
+      <workItem from="1734962541107" duration="3528000" />
     </task>
+    <task id="LOCAL-00001" summary="Session 1 : Introduction&#10;Basics of HTML5">
+      <option name="closed" value="true" />
+      <created>1734626102593</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1734626102593</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Session 1 : Introduction&#10;Basics of HTML5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Session 1 : Introduction&#10;Basics of HTML5" />
   </component>
 </project>
